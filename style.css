@@ -1,0 +1,13 @@
+
+body{
+color: white;
+    background-color:cadetblue;
+}
+#heading-main{
+    color: red;
+    font-size: 30px;
+}
+
+div{
+    width: 300px;
+}
